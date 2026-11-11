@@ -1,0 +1,692 @@
+{
+  "sheet1": [
+    {
+      "#": 1,
+      "Company Name": "Sun Pharmaceutical Industries Ltd.",
+      "Registered Address": "Sun House, 201 B/1, Western Express Highway, Goregaon (E), Mumbai, Maharashtra – 400063",
+      "Phone": "+91-22-4324-4324",
+      "Website": "www.sunpharma.com",
+      "Stock Code": "BSE: 524715",
+      "Key Executive": "Dilip Shanghvi"
+    },
+    {
+      "#": 2,
+      "Company Name": "Cipla Ltd.",
+      "Registered Address": "Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai, Maharashtra – 400013",
+      "Phone": "+91-22-2482-6000",
+      "Website": "www.cipla.com",
+      "Stock Code": "BSE: 500087",
+      "Key Executive": "Umang Vohra"
+    },
+    {
+      "#": 3,
+      "Company Name": "Dr. Reddy's Laboratories Ltd.",
+      "Registered Address": "8-2-337, Road No. 3, Banjara Hills, Hyderabad, Telangana – 500034",
+      "Phone": "+91-40-4900-2900",
+      "Website": "www.drreddys.com",
+      "Stock Code": "BSE: 500124",
+      "Key Executive": "Erez Israeli"
+    },
+    {
+      "#": 4,
+      "Company Name": "Lupin Ltd.",
+      "Registered Address": "Kalpataru Inspire, 3rd Floor, Off Western Express Highway, Santacruz (E), Mumbai, Maharashtra – 400055",
+      "Phone": "+91-22-6640-2323",
+      "Website": "www.lupin.com",
+      "Stock Code": "BSE: 500257",
+      "Key Executive": "Vinita Gupta"
+    },
+    {
+      "#": 5,
+      "Company Name": "Aurobindo Pharma Ltd.",
+      "Registered Address": "Plot No. 2, Maitrivihar, Ameerpet, Hyderabad, Telangana – 500038",
+      "Phone": "+91-40-6672-5000",
+      "Website": "www.aurobindo.com",
+      "Stock Code": "BSE: 524804",
+      "Key Executive": "K. Nityananda Reddy"
+    },
+    {
+      "#": 6,
+      "Company Name": "Torrent Pharmaceuticals Ltd.",
+      "Registered Address": "Torrent House, Off Ashram Road, Ahmedabad, Gujarat – 380009",
+      "Phone": "+91-79-2658-5090",
+      "Website": "www.torrentpharma.com",
+      "Stock Code": "BSE: 500420",
+      "Key Executive": "Jai Mehta"
+    },
+    {
+      "#": 7,
+      "Company Name": "Zydus Lifesciences Ltd.",
+      "Registered Address": "Zydus Corporate Park, Scheme No. 63, Survey No. 536, Khoraj (Gandhinagar), Gujarat – 382210",
+      "Phone": "+91-79-6823-8000",
+      "Website": "www.zyduslife.com",
+      "Stock Code": "BSE: 532321",
+      "Key Executive": "Sharvil Patel"
+    },
+    {
+      "#": 8,
+      "Company Name": "Alkem Laboratories Ltd.",
+      "Registered Address": "Alkem House, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra – 400013",
+      "Phone": "+91-22-3982-9000",
+      "Website": "www.alkem.com",
+      "Stock Code": "BSE: 539523",
+      "Key Executive": "Samprada Singh"
+    },
+    {
+      "#": 9,
+      "Company Name": "Glenmark Pharmaceuticals Ltd.",
+      "Registered Address": "B/2, Mahalaxmi Chambers, 22, Bhulabhai Desai Road, Mumbai, Maharashtra – 400026",
+      "Phone": "+91-22-4018-9999",
+      "Website": "www.glenmarkpharma.com",
+      "Stock Code": "BSE: 532296",
+      "Key Executive": "Glenn Saldanha"
+    },
+    {
+      "#": 10,
+      "Company Name": "Mankind Pharma Ltd.",
+      "Registered Address": "208, Okhla Industrial Estate Phase-III, New Delhi – 110020",
+      "Phone": "+91-11-4309-6000",
+      "Website": "www.mankindpharma.com",
+      "Stock Code": "BSE: 543904",
+      "Key Executive": "Rajeev Juneja"
+    },
+    {
+      "#": 11,
+      "Company Name": "Abbott India Ltd.",
+      "Registered Address": "3rd Floor, Godrej BKC, Plot C-68, G Block, Bandra Kurla Complex, Mumbai, Maharashtra – 400051",
+      "Phone": "+91-22-6921-3000",
+      "Website": "www.abbott.co.in",
+      "Stock Code": "BSE: 500488",
+      "Key Executive": "Ambati Venu"
+    },
+    {
+      "#": 12,
+      "Company Name": "Pfizer Ltd.",
+      "Registered Address": "The Capital, 1802, 18th Floor, Plot No. C-70, G Block, BKC, Mumbai, Maharashtra – 400051",
+      "Phone": "+91-22-6693-2000",
+      "Website": "www.pfizerindia.com",
+      "Stock Code": "BSE: 500680",
+      "Key Executive": "S. Sridhar"
+    },
+    {
+      "#": 13,
+      "Company Name": "GlaxoSmithKline Pharmaceuticals Ltd.",
+      "Registered Address": "Dr. Annie Besant Road, Worli, Mumbai, Maharashtra – 400030",
+      "Phone": "+91-22-2495-9595",
+      "Website": "www.gsk.com/india",
+      "Stock Code": "BSE: 500660",
+      "Key Executive": "Bhushan Akshikar"
+    },
+    {
+      "#": 14,
+      "Company Name": "Wockhardt Ltd.",
+      "Registered Address": "D-4, MIDC, TTC Area, Turbhe, Navi Mumbai, Maharashtra – 400705",
+      "Phone": "+91-22-2653-4444",
+      "Website": "www.wockhardt.com",
+      "Stock Code": "BSE: 532300",
+      "Key Executive": "Habil Khorakiwala"
+    },
+    {
+      "#": 15,
+      "Company Name": "IPCA Laboratories Ltd.",
+      "Registered Address": "48, Kandivli Industrial Estate, Kandivli (W), Mumbai, Maharashtra – 400067",
+      "Phone": "+91-22-6653-7171",
+      "Website": "www.ipca.com",
+      "Stock Code": "BSE: 524494",
+      "Key Executive": "Premchand Godha"
+    },
+    {
+      "#": 16,
+      "Company Name": "Macleods Pharmaceuticals Ltd.",
+      "Registered Address": "Mahakali Caves Road, Andheri (E), Mumbai, Maharashtra – 400093",
+      "Phone": "+91-22-6694-9200",
+      "Website": "www.macleodspharma.com",
+      "Stock Code": "Pvt. Ltd.",
+      "Key Executive": "Rajesh Parikh"
+    },
+    {
+      "#": 17,
+      "Company Name": "Emcure Pharmaceuticals Ltd.",
+      "Registered Address": "T-184, MIDC, Bhosari, Pune, Maharashtra – 411026",
+      "Phone": "+91-20-6659-2222",
+      "Website": "www.emcure.com",
+      "Stock Code": "BSE: 544099",
+      "Key Executive": "Satish Mehta"
+    },
+    {
+      "#": 18,
+      "Company Name": "Intas Pharmaceuticals Ltd.",
+      "Registered Address": "Chinubhai Centre, Off Nehru Bridge, Ashram Road, Ahmedabad, Gujarat – 380009",
+      "Phone": "+91-79-2657-3512",
+      "Website": "www.intaspharma.com",
+      "Stock Code": "Pvt. Ltd.",
+      "Key Executive": "Binish Chudgar"
+    },
+    {
+      "#": 19,
+      "Company Name": "Strides Pharma Science Ltd.",
+      "Registered Address": "201, Devavrata, Sector 17, Vashi, Navi Mumbai, Maharashtra – 400703",
+      "Phone": "+91-22-2789-2924",
+      "Website": "www.strides.com",
+      "Stock Code": "BSE: 532531",
+      "Key Executive": "Arun Kumar"
+    },
+    {
+      "#": 20,
+      "Company Name": "Natco Pharma Ltd.",
+      "Registered Address": "NATCO House, Road No. 2, Banjara Hills, Hyderabad, Telangana – 500034",
+      "Phone": "+91-40-2354-7123",
+      "Website": "www.natcopharma.co.in",
+      "Stock Code": "BSE: 524816",
+      "Key Executive": "Rajeev Nannapaneni"
+    }
+  ],
+  "sheet2": [
+    {
+      "#": 1,
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Pantoprazole 40mg",
+      "Brand Name": "Pantocid",
+      "Therapy Area": "Gastroenterology",
+      "Drug Class": "Proton Pump Inhibitor",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 2,
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Clonazepam 0.5mg",
+      "Brand Name": "Clonotril",
+      "Therapy Area": "Neurology",
+      "Drug Class": "Benzodiazepine",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 3,
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Olanzapine 5mg",
+      "Brand Name": "Oleanz",
+      "Therapy Area": "Psychiatry",
+      "Drug Class": "Atypical Antipsychotic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 4,
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Metformin 500mg",
+      "Brand Name": "Glycomet",
+      "Therapy Area": "Diabetology",
+      "Drug Class": "Biguanide",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 5,
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Isotretinoin 20mg",
+      "Brand Name": "Sotret",
+      "Therapy Area": "Dermatology",
+      "Drug Class": "Retinoid",
+      "Dosage Form": "Capsule",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 6,
+      "Manufacturer": "Cipla Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Salbutamol Inhaler",
+      "Brand Name": "Asthalin",
+      "Therapy Area": "Pulmonology",
+      "Drug Class": "Bronchodilator",
+      "Dosage Form": "Inhaler",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 7,
+      "Manufacturer": "Cipla Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Azithromycin 500mg",
+      "Brand Name": "Azee",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Macrolide Antibiotic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 8,
+      "Manufacturer": "Cipla Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Atorvastatin 10mg",
+      "Brand Name": "Atorva",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Statin",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 9,
+      "Manufacturer": "Cipla Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Fluconazole 150mg",
+      "Brand Name": "Zocon",
+      "Therapy Area": "Dermatology / Gynaecology",
+      "Drug Class": "Antifungal",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 10,
+      "Manufacturer": "Cipla Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Montelukast 10mg",
+      "Brand Name": "Montair",
+      "Therapy Area": "Pulmonology",
+      "Drug Class": "Leukotriene Antagonist",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 11,
+      "Manufacturer": "Dr. Reddy's Laboratories Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Omeprazole 20mg",
+      "Brand Name": "Omez",
+      "Therapy Area": "Gastroenterology",
+      "Drug Class": "Proton Pump Inhibitor",
+      "Dosage Form": "Capsule",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 12,
+      "Manufacturer": "Dr. Reddy's Laboratories Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Ondansetron 4mg",
+      "Brand Name": "Emeset",
+      "Therapy Area": "Gastroenterology",
+      "Drug Class": "5-HT3 Antagonist",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 13,
+      "Manufacturer": "Dr. Reddy's Laboratories Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Metoprolol 25mg",
+      "Brand Name": "Met XL",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Beta Blocker",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 14,
+      "Manufacturer": "Dr. Reddy's Laboratories Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Cetirizine 10mg",
+      "Brand Name": "Cetcip",
+      "Therapy Area": "Allergy",
+      "Drug Class": "Antihistamine",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "OTC"
+    },
+    {
+      "#": 15,
+      "Manufacturer": "Dr. Reddy's Laboratories Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Ciprofloxacin 500mg",
+      "Brand Name": "Ciplox (DRL)",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Fluoroquinolone Antibiotic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 16,
+      "Manufacturer": "Lupin Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Ramipril 5mg",
+      "Brand Name": "Cardace",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "ACE Inhibitor",
+      "Dosage Form": "Capsule",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 17,
+      "Manufacturer": "Lupin Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Ethambutol 800mg",
+      "Brand Name": "Myambutol",
+      "Therapy Area": "Pulmonology",
+      "Drug Class": "Antimycobacterial",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 18,
+      "Manufacturer": "Lupin Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Losartan 50mg",
+      "Brand Name": "Losacar",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "ARB",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 19,
+      "Manufacturer": "Lupin Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Rifampicin 450mg",
+      "Brand Name": "Rifinah",
+      "Therapy Area": "Pulmonology",
+      "Drug Class": "Antibiotic (TB)",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 20,
+      "Manufacturer": "Lupin Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Amlodipine 5mg",
+      "Brand Name": "Amlovas",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Calcium Channel Blocker",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 21,
+      "Manufacturer": "Aurobindo Pharma Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Amoxicillin 500mg",
+      "Brand Name": "Mox",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Penicillin Antibiotic",
+      "Dosage Form": "Capsule",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 22,
+      "Manufacturer": "Aurobindo Pharma Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Cefixime 200mg",
+      "Brand Name": "Cefix",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Cephalosporin Antibiotic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 23,
+      "Manufacturer": "Aurobindo Pharma Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Sertraline 50mg",
+      "Brand Name": "Serta",
+      "Therapy Area": "Psychiatry",
+      "Drug Class": "SSRI",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 24,
+      "Manufacturer": "Aurobindo Pharma Ltd.",
+      "Manufacturer HQ": "Hyderabad, Telangana",
+      "Salt / Generic Name": "Telmisartan 40mg",
+      "Brand Name": "Telma",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "ARB",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 25,
+      "Manufacturer": "Torrent Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Atenolol 50mg",
+      "Brand Name": "Aten",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Beta Blocker",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 26,
+      "Manufacturer": "Torrent Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Escitalopram 10mg",
+      "Brand Name": "Nexito",
+      "Therapy Area": "Psychiatry",
+      "Drug Class": "SSRI",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 27,
+      "Manufacturer": "Torrent Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Glimepiride 2mg",
+      "Brand Name": "Glizid",
+      "Therapy Area": "Diabetology",
+      "Drug Class": "Sulfonylurea",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 28,
+      "Manufacturer": "Torrent Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Nifedipine 10mg",
+      "Brand Name": "Depin",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Calcium Channel Blocker",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 29,
+      "Manufacturer": "Zydus Lifesciences Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Vildagliptin 50mg",
+      "Brand Name": "Galvus Met",
+      "Therapy Area": "Diabetology",
+      "Drug Class": "DPP-4 Inhibitor",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 30,
+      "Manufacturer": "Zydus Lifesciences Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Pantoprazole 40mg",
+      "Brand Name": "Pan D",
+      "Therapy Area": "Gastroenterology",
+      "Drug Class": "Proton Pump Inhibitor",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 31,
+      "Manufacturer": "Zydus Lifesciences Ltd.",
+      "Manufacturer HQ": "Ahmedabad, Gujarat",
+      "Salt / Generic Name": "Rosuvastatin 10mg",
+      "Brand Name": "Rozucor",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "Statin",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 32,
+      "Manufacturer": "Alkem Laboratories Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Cefpodoxime 200mg",
+      "Brand Name": "Cepodem",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Cephalosporin Antibiotic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 33,
+      "Manufacturer": "Alkem Laboratories Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Dolo Paracetamol 650mg",
+      "Brand Name": "Dolo 650",
+      "Therapy Area": "Analgesic / Antipyretic",
+      "Drug Class": "Antipyretic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "OTC"
+    },
+    {
+      "#": 34,
+      "Manufacturer": "Alkem Laboratories Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Pantoprazole + Domperidone",
+      "Brand Name": "Pan 40",
+      "Therapy Area": "Gastroenterology",
+      "Drug Class": "PPI + Prokinetic",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 35,
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Mometasone Nasal Spray",
+      "Brand Name": "Momate",
+      "Therapy Area": "ENT",
+      "Drug Class": "Corticosteroid",
+      "Dosage Form": "Nasal Spray",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 36,
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Levocetirizine 5mg",
+      "Brand Name": "Telekast L",
+      "Therapy Area": "Allergy",
+      "Drug Class": "Antihistamine",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 37,
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Teneligliptin 20mg",
+      "Brand Name": "Tenepure",
+      "Therapy Area": "Diabetology",
+      "Drug Class": "DPP-4 Inhibitor",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 38,
+      "Manufacturer": "Mankind Pharma Ltd.",
+      "Manufacturer HQ": "New Delhi",
+      "Salt / Generic Name": "Doxycycline 100mg",
+      "Brand Name": "Doxt SL",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Tetracycline Antibiotic",
+      "Dosage Form": "Capsule",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 39,
+      "Manufacturer": "Mankind Pharma Ltd.",
+      "Manufacturer HQ": "New Delhi",
+      "Salt / Generic Name": "Mefenamic Acid 500mg",
+      "Brand Name": "Mefkind Forte",
+      "Therapy Area": "Analgesic",
+      "Drug Class": "NSAID",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 40,
+      "Manufacturer": "Mankind Pharma Ltd.",
+      "Manufacturer HQ": "New Delhi",
+      "Salt / Generic Name": "Aceclofenac 100mg",
+      "Brand Name": "Aceclo Plus",
+      "Therapy Area": "Pain Management",
+      "Drug Class": "NSAID",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 41,
+      "Manufacturer": "IPCA Laboratories Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Chloroquine 250mg",
+      "Brand Name": "Lariago",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Antimalarial",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 42,
+      "Manufacturer": "IPCA Laboratories Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Hydroxychloroquine 200mg",
+      "Brand Name": "HCQs",
+      "Therapy Area": "Rheumatology",
+      "Drug Class": "Antimalarial / DMARD",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 43,
+      "Manufacturer": "Macleods Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Isoniazid + Rifampicin",
+      "Brand Name": "Macox Plus",
+      "Therapy Area": "Pulmonology",
+      "Drug Class": "Antibiotic (TB)",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 44,
+      "Manufacturer": "Macleods Pharmaceuticals Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Amlodipine + Atenolol",
+      "Brand Name": "Amlopin-AT",
+      "Therapy Area": "Cardiology",
+      "Drug Class": "CCB + Beta Blocker",
+      "Dosage Form": "Tablet",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 45,
+      "Manufacturer": "Wockhardt Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Ceftriaxone 1g Injection",
+      "Brand Name": "Wintrocef",
+      "Therapy Area": "Infectious Disease",
+      "Drug Class": "Cephalosporin Antibiotic",
+      "Dosage Form": "Injection",
+      "Rx / OTC": "Rx"
+    },
+    {
+      "#": 46,
+      "Manufacturer": "Wockhardt Ltd.",
+      "Manufacturer HQ": "Mumbai, Maharashtra",
+      "Salt / Generic Name": "Human Insulin 30/70",
+      "Brand Name": "Wosulin 30/70",
+      "Therapy Area": "Diabetology",
+      "Drug Class": "Insulin",
+      "Dosage Form": "Injection",
+      "Rx / OTC": "Rx"
+    }
+  ]
+}

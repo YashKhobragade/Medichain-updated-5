@@ -1,0 +1,34 @@
+[
+  {
+    "company": "Midas labs",
+    "role": "manufacturer",
+    "address": "0x7016c5605A6f714B68C9200a0D66fd74af1406f3",
+    "source": "app",
+    "linkedBy": "ghostsender31@gmail.com",
+    "linkedAt": "2026-10-14T09:30:45.983Z"
+  },
+  {
+    "company": "MediTrust Distributors",
+    "role": "distributor",
+    "address": "0x65151e0065FC1BA36fdDdc66092F7311CcBEF9e3",
+    "source": "file",
+    "approvedTx": "0xfefca8c0147d44dcba4432595ac84f6f798137361238f2be3c3bd2d8cd09dd93",
+    "approvedAt": "2026-10-14T11:04:18.388Z"
+  },
+  {
+    "company": "HealthPlus Pharmacy",
+    "role": "pharmacy",
+    "address": "0x422758149e35B2ddEBE42eC0AEB7a865196D9d75",
+    "source": "file",
+    "approvedTx": "0x1f614156d78ab886e112087381e0a3bc857d73c66c45aef9bf4b547712a3048c",
+    "approvedAt": "2026-10-14T11:04:39.469Z"
+  },
+  {
+    "company": "PharmaCure Labs",
+    "role": "manufacturer",
+    "address": "0xD645811c84d4ea60193eC04237292AeF9D394123",
+    "source": "app",
+    "linkedBy": "manufacturer@medichain.io",
+    "linkedAt": "2026-10-14T11:08:40.733Z"
+  }
+]

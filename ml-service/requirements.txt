@@ -1,0 +1,8 @@
+# Pinned: OpenCV 5.x changed the WeChat QR API; this service uses the 4.x models
+opencv-contrib-python-headless==4.10.0.84
+numpy>=1.24
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+# only needed for make_samples.py
+qrcode[pil]>=7.4

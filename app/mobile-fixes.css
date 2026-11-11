@@ -1,0 +1,199 @@
+/* Mobile Responsive Fixes
+ * These blanket overrides predate the Tailwind breakpoints used in newer pages.
+ * Anything inside [data-native-responsive] handles its own layout and is skipped
+ * by the rules that would fight it (button sizing, grid collapse, tables, dialogs). */
+
+/* Prevent horizontal scroll on mobile */
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    /* Fix container padding on mobile */
+    .container {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    /* Ensure text doesn't overflow */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    /* Fix button sizing on mobile */
+    button:not([data-native-responsive] *),
+    .btn:not([data-native-responsive] *) {
+        min-height: 44px;
+        /* Touch-friendly size */
+        padding: 0.75rem 1rem;
+    }
+
+    /* Fix input fields on mobile */
+    input,
+    select,
+    textarea {
+        font-size: 16px !important;
+        /* Prevents zoom on iOS */
+        min-height: 44px;
+    }
+
+    /* Fix table overflow */
+    table:not([data-native-responsive] *) {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    /* Fix card spacing on mobile */
+    .card:not([data-native-responsive] *),
+    [class*="rounded-xl"]:not([data-native-responsive] *),
+    [class*="rounded-2xl"]:not([data-native-responsive] *) {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+
+    /* Fix grid layouts on mobile */
+    [class*="grid-cols-"]:not([data-native-responsive] *) {
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+    }
+
+    /* Fix flex layouts on mobile */
+    .flex-row:not([data-native-responsive] *) {
+        flex-direction: column;
+    }
+
+    /* Fix modal/dialog sizing */
+    [role="dialog"]:not([data-native-responsive] *),
+    .modal:not([data-native-responsive] *) {
+        max-width: 95vw !important;
+        margin: 1rem;
+    }
+
+    /* Fix navbar on mobile */
+    nav {
+        padding: 0.5rem 1rem;
+    }
+
+    /* Fix hero text sizing */
+    .text-5xl,
+    .text-6xl,
+    .text-7xl {
+        font-size: 2rem !important;
+        line-height: 1.2;
+    }
+
+    .text-4xl {
+        font-size: 1.75rem !important;
+    }
+
+    .text-3xl {
+        font-size: 1.5rem !important;
+    }
+
+    /* Fix spacing */
+    .section-spacing {
+        padding: 2rem 1rem !important;
+    }
+
+    /* Fix wallet connect button */
+    .wallet-connect {
+        width: 100%;
+        justify-content: center;
+    }
+
+    /* Fix dashboard cards */
+    .dashboard-card {
+        min-height: auto;
+        padding: 1rem;
+    }
+
+    /* Fix manufacturer form */
+    .manufacturer-form {
+        padding: 1rem;
+    }
+
+    /* Fix QR code display */
+    canvas,
+    svg {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Fix analytics charts */
+    .recharts-wrapper {
+        max-width: 100% !important;
+    }
+
+    /* Fix portal cards */
+    .portal-card {
+        margin-bottom: 1rem;
+    }
+
+    /* Fix verification page */
+    .verification-container {
+        padding: 1rem;
+    }
+
+    /* Fix footer on mobile */
+    footer {
+        padding: 2rem 1rem;
+    }
+
+    footer .grid {
+        grid-template-columns: 1fr !important;
+        gap: 2rem;
+    }
+}
+
+/* Tablet breakpoint */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    /* 2-column grid for tablets */
+    [class*="grid-cols-3"]:not([data-native-responsive] *),
+    [class*="grid-cols-4"]:not([data-native-responsive] *) {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+}
+
+/* Fix for very small screens */
+@media (max-width: 375px) {
+    .text-2xl {
+        font-size: 1.25rem !important;
+    }
+
+    .text-xl {
+        font-size: 1.125rem !important;
+    }
+
+    .px-8 {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .py-8 {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+    }
+}
+
+/* Landscape mobile fixes */
+@media (max-height: 500px) and (orientation: landscape) {
+    .min-h-screen {
+        min-height: auto;
+    }
+
+    .py-20 {
+        padding-top: 2rem !important;
+        padding-bottom: 2rem !important;
+    }
+}

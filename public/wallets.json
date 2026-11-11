@@ -1,0 +1,9 @@
+{
+  "_note": "PUBLIC wallet addresses only, never private keys. Paste each organisation's MetaMask address, then run: npm run chain:roles:sepolia",
+  "parties": {
+    "PharmaCure Labs": { "role": "manufacturer", "address": "0xD645811c84d4ea60193eC04237292AeF9D394123" },
+    "MediTrust Distributors": { "role": "distributor", "address": "0x65151e0065FC1BA36fdDdc66092F7311CcBEF9e3" },
+    "HealthPlus Pharmacy": { "role": "pharmacy", "address": "0x422758149e35B2ddEBE42eC0AEB7a865196D9d75" },
+    "Apollo Hospital Pharmacy": { "role": "hospital", "address": "" }
+  }
+}

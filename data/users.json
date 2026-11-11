@@ -1,0 +1,34 @@
+[
+  {
+    "id": "local-mv0xib2w",
+    "email": "sunpharma@gmail.com",
+    "full_name": "Sun Pharma Labs",
+    "role": "manufacturer",
+    "company": "Sun Pharma Labs",
+    "password_hash": "$2a$10$b2rpftjIUkyXfDPjJUD3LuuMYO7J7w.b/HwIZCGL56Tv7SlgmN4OK"
+  },
+  {
+    "id": "local-mv0xjmtu",
+    "email": "yashkhobragade317@gmail.com",
+    "full_name": "Sun Pharma",
+    "role": "manufacturer",
+    "company": "Sun Pharma",
+    "password_hash": "$2a$10$dgloGAgxeq6voIyWi.PNg.hHiiYUDHKpXranqUzBeltKJqXud73m6"
+  },
+  {
+    "id": "local-mv7t91fh",
+    "email": "ghostsender31@gmail.com",
+    "full_name": "Midas labs",
+    "role": "manufacturer",
+    "company": "Midas labs",
+    "password_hash": "$2a$10$nXIM7l/Y6tXgUq/WqoFaQurfs1bSgHf9TlDugc33MtoFG.xwfdqOq"
+  },
+  {
+    "id": "local-mvb6pxyg",
+    "email": "alphalabs@gmail.com",
+    "full_name": "alpha labs",
+    "role": "manufacturer",
+    "company": "alpha labs",
+    "password_hash": "$2a$10$Tm4LQtYkVL4j9HcIabbVtuKYGXkl28m0pzTFG4EKYeYoVBIE0mJfm"
+  }
+]
